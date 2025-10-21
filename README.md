@@ -5,6 +5,7 @@
 # infographic-nhiemvu 2.1-Han
 # video-nhiemvu 2.2-Hà
 # index-nhiemvu 3,1-Huong
-# Infographic tạo bởi Canva AI, hình ảnh từ Unsplash CC0
+# Nguồn canva AI: Infographic tạo bởi Canva AI, hình ảnh từ Unsplash CC0
 # Nội dung tham khảo từ Google Bard, hình ảnh từ unsplash 
 # Nguồn ảnh: https://unsplash.com/ 
+# giấy phép: Toàn bộ sản phẩm được chia sẻ theo giấy phép Creative Commons CC BY 4.0.
